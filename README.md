@@ -1,12 +1,99 @@
-# React + Vite
+<!-- 
+🚀 Intro 
+-->
+# 🚀 3D Portfolio – Built with Vite + React + Three.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **3D Developer Portfolio**, where code meets creativity.  
+This interactive site was crafted using **Vite**, **React**, and **Three.js**, blending performance and visuals to showcase my skills and projects in a cinematic 3D vibe.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- 
+📸 Live Demo 
+-->
+## 📸 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Visit the Site](https://threejs-nine-rosy.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+<!-- 
+✨ Features 
+-->
+## ✨ Features
+
+- 🎮 Real-time 3D visuals using **Three.js**
+- 🎨 Smooth scroll + animations using **GSAP**
+- ⚡ Ultra-fast builds with **Vite**
+- 🖥️ Fully responsive (desktop + mobile)
+- 📬 Functional contact form via **EmailJS**
+- 🧠 Clean code & reusable React components
+
+---
+
+<!-- 
+🧰 Tech Stack 
+-->
+## 🧰 Tech Stack
+
+| Tech         | Description                          |
+|--------------|--------------------------------------|
+| **Vite**     | Fast dev server + build tool         |
+| **React**    | Frontend library for UI              |
+| **Three.js** | 3D rendering                         |
+| **GSAP**     | Animations and transitions           |
+| **EmailJS**  | Contact form integration             |
+| **Tailwind** | Utility-first CSS framework          |
+
+---
+
+<!-- 
+🎨 Credits / Inspiration 
+-->
+## 🎨 Credits / Inspiration
+
+- Design & 3D flow inspired by [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
+- Special thanks for the 3D animation tutorial by [JavaScript Mastery](https://www.youtube.com/c/JavaScriptMastery)
+
+---
+
+<!-- 
+🏁 Getting Started 
+-->
+## 🏁 Getting Started
+
+Follow the steps below to run the project locally:
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/DICKSON39/threejs.git
+
+# 2. Navigate into the project directory
+cd threejs
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the dev server
+npm run dev
+
+# 5. Build for production
+npm run build
+```
+
+<!-- ⚙️ Deployment -->
+
+⚙️ Deployment
+You can deploy this to:
+
+Vercel (super easy)
+ If you’re using Vercel, 
+just push your repo and Vercel will auto-deploy it. Boom.
+
+
+![img.png](img.png)
+
+
+
+
+
